@@ -1,0 +1,35 @@
+body {
+    position: relative;
+    background-color: rgb(253, 252, 252);
+}
+.container {
+    position: absolute;
+    left: 26%;
+    margin-top: 10%;
+    width: fit-content;
+    padding: 10px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 5px;
+}
+.title h3 {
+    text-align: center;
+}
+input[type=text] {
+    padding: 13.5px;
+    width: 300px;
+}
+input[type=submit] {
+    padding: 15px;
+    width: 170px;
+    color: white;
+    border: 0;
+    background-color: #1E8EE6;
+}
+button {
+    padding: 15px;
+    width: 100%;
+    border: 0;
+    color: white;
+    background-color: #FF1A35;
+}
